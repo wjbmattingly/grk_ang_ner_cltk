@@ -1,0 +1,11 @@
+Καπιτώλιον, PERSON
+Γράκχου, PERSON
+Γάιος, PERSON
+Ὀκτάουιος, PERSON
+Ἰόνιον, PERSON
+Ἀλέξανδρον, PERSON
+Ἀντωνίῳ, PERSON
+Κλεοπάτρας, PERSON
+Κορνήλιον, PERSON
+Γράκχου, PERSON
+Κλεοπάτραν, PERSON
